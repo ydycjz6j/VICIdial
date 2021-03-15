@@ -23,26 +23,47 @@ Potential Sensative files/endpoints:
 ## Example URL's:
 
 http://172.104.24.101/vicidial/project_auth_entries.txt
+
 http://172.104.24.101/vicidial/agent_reports/
+
 http://172.104.24.101/agc/vicidial_mysqli_errors.txt
+
 http://172.104.24.101/agc/vicidial_debug.txt
+
 http://172.104.24.101/agc/vicidial_auth_entries.txt
 
+
+
 http://35.156.102.118/vicidial/project_auth_entries.txt
+
 http://35.156.102.118/vicidial/agent_reports/
+
 http://35.156.102.118/vicidial/closer_SQL_updates.txt
+
 http://35.156.102.118/agc/vicidial_mysqli_errors.txt
+
 http://35.156.102.118/agc/vicidial_debug.txt
+
 http://35.156.102.118/agc/vicidial_auth_entries.txt
 
+
+
 https://callsrevenue.com/vicidial/project_auth_entries.txt
+
 https://callsrevenue.com/agc/vicidial_mysqli_errors.txt
+
 https://callsrevenue.com/agc/vicidial_debug.txt
+
 https://callsrevenue.com/agc/vicidial_auth_entries.txt
 
+
+
 http://69.60.110.115/vicidial/agent_reports/
+
 http://69.60.110.115/vicidial/closer_SQL_updates.txt
+
 http://69.60.110.115/agc/vicidial_mysqli_errors.txt
+
 http://69.60.110.115/agc/vicidial_debug.txt
 
 + Thousands More! :)

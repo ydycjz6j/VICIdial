@@ -47,3 +47,14 @@ http://69.60.110.115/agc/vicidial_debug.txt
 
 + Thousands More! :)
 
+## Google Dorks to help find more!
+
+"Agent web client:  Phone Login"
+
+"Index of /vicidial"
+
+inurl:/vicidial/welcome.php
+
+intitle:Agent Timeclock
+
+

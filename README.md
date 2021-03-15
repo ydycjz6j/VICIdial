@@ -7,11 +7,17 @@ VICIdial's Web Client contains many sensitive files that can be access from the 
 Potential Sensative files/endpoints:
 
 /vicidial/project_auth_entries.txt
+
 /vicidial/agent_reports/AGENT_DAY_<YEAR>-<MONTH>-<DAY>.TXT
+
 /vicidial/agent_reports/
+
 /vicidial/closer_SQL_updates.txt
+
 /agc/vicidial_mysqli_errors.txt
+
 /agc/vicidial_debug.txt
+
 /agc/vicidial_auth_entries.txt
 
 Example URL's:

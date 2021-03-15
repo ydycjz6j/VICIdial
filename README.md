@@ -33,6 +33,8 @@ http://172.104.24.101/agc/vicidial_debug.txt
 http://172.104.24.101/agc/vicidial_auth_entries.txt
 
 
+------------------------------------------------------
+
 
 http://35.156.102.118/vicidial/project_auth_entries.txt
 
@@ -47,6 +49,8 @@ http://35.156.102.118/agc/vicidial_debug.txt
 http://35.156.102.118/agc/vicidial_auth_entries.txt
 
 
+------------------------------------------------------
+
 
 https://callsrevenue.com/vicidial/project_auth_entries.txt
 
@@ -56,6 +60,8 @@ https://callsrevenue.com/agc/vicidial_debug.txt
 
 https://callsrevenue.com/agc/vicidial_auth_entries.txt
 
+
+------------------------------------------------------
 
 
 http://69.60.110.115/vicidial/agent_reports/

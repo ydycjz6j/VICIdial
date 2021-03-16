@@ -84,4 +84,6 @@ inurl:/vicidial/welcome.php
 
 intitle:Agent Timeclock
 
+"Agent web client: Campaign Login"
+
 

@@ -1,6 +1,6 @@
-# VICIdial - CVE
+# VICIdial - CVE-2021-28854
 ## Info/Impact
-VICIdial's Web Client contains many sensitive files that can be access from the client side. These files contain mysqli logs, auth logs, debug information, successful and unsuccessful login attempts with their corresponding IP's, User-Agents, credentials and much more. This information can be leveraged by an attacker to gain further access to VICIdial systems.
+VICIdial's Web Client contains many sensitive files that can be access from the client side. These files contain mysqli logs, auth logs, debug information, successful and unsuccessful login attempts with their corresponding IP's, User-Agents, credentials and much more. This information can be leveraged by an attacker to gain further access to VICIdial systems. This vulnerability affects all versions as of 20/5/21
 
 ## PoC (Proof of Concept)
 
